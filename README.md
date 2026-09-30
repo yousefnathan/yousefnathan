@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Yousef Nathan - Computer Science & AI Student" width="100%" />
+<img src="banner.svg" alt="Yousef Nathan - Computer Science & AI Student" width="100%" />
 
 <br><br>
 
