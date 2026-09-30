@@ -1,173 +1,167 @@
-<div align="center">
+# 💫 About Me
 
-# Yousef Nathan
+🎓 Computer Science & Artificial Intelligence student at Helwan National University, Cairo, Egypt.
 
-### Computer Science & AI Student | Machine Learning & Data Science Enthusiast
+🤖 AI & Data Science enthusiast focused on Machine Learning, Deep Learning, NLP, Computer Vision, and Data Analysis.
 
-Helwan National University · Cairo, Egypt
+💻 Experienced in building practical AI solutions using Python, Scikit-learn, TensorFlow, Pandas, NumPy, and SQL.
 
-<p>
-  <a href="https://www.linkedin.com/in/yousef-nathan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yousseftarek29205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/yousefnathan">
-    <img src="https://img.shields.io/badge/GitHub-yousefnathan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+🚀 Developed projects including a BERT & PageRank-based Course Recommendation System and an interactive World Happiness Dashboard using Plotly Dash.
 
-</div>
+🌱 Currently expanding my knowledge in NLP, Deep Learning, intelligent recommendation systems, and data-driven applications.
 
----
+🤝 Open to collaborating on AI, Machine Learning, Data Science, and software development projects.
 
-## About Me
+💬 Ask me about Python, Machine Learning, Deep Learning, NLP, Data Analysis, SQL, and Data Visualization.
 
-I am a Computer Science & Artificial Intelligence student at **Helwan National University** in Cairo, Egypt, with a strong interest in building intelligent, data-driven systems.
+⚡ I enjoy transforming data into practical and intelligent solutions.
 
-My main areas of interest are:
+This is stronger because it immediately tells a recruiter:
 
-- Machine Learning and Deep Learning
-- Natural Language Processing
-- Data Science and Data Analysis
-- Computer Vision
-- Recommendation Systems
+Who you are → What you specialize in → What you've built → What you're learning → What you're looking for.
 
-I completed the **Digital Egypt Pioneers Initiative (DEPI)** as an **AI & Data Science Trainee**, where I worked with Python, Pandas, NumPy, and Scikit-learn on data cleaning, feature engineering, model evaluation, and team-based AI projects.
+2. Socials
 
----
+Your LinkedIn URL currently has a mistake:
 
-## What I Work With
+https://linkedin.com/in/https://www.linkedin.com/in/yousef-nathan/
 
-### Programming Languages
+Fix it to:
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-nathan/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousseftarek29205@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefnathan)
+3. Tech Stack
+
+I would remove R unless you actually use it in your projects.
+
+Also, your current stack is missing some technologies that are much more relevant to the projects you've shown.
+
+Use:
+
+# 💻 Tech Stack
+
+### 🐍 Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### AI & Machine Learning
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🤖 AI & Machine Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-Machine Learning · Deep Learning · Computer Vision · Natural Language Processing
-
-### NLP & Recommendation Systems
-
-![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-2C3E50?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-### Data Science
-
+### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Databases
+### 🧠 NLP & Recommendation Systems
+![BERT](https://img.shields.io/badge/BERT-412991?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=for-the-badge)
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 🗄️ Databases
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Web & Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools
-
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+4. Add a Featured Projects section
+
+This is actually very important for your profile.
+
+Your two strongest recent projects can be highlighted:
+
+# 🚀 Featured Projects
+
+### 🎓 Course Recommendation System
+**BERT Embeddings • PageRank • k-NN • NLP • Recommendation Systems**
+
+A personalized course recommendation system combining semantic similarity using BERT embeddings with graph-based PageRank scoring.
+
+🔗 [View Project](https://github.com/yousefnathan/Course-Recommendation-System)
 
 ---
 
-## Featured Projects
+### 📊 World Happiness Dashboard
+**Python • Pandas • Plotly Dash • Data Analysis • Data Visualization**
 
-### Course Recommendation System
+Interactive dashboard analyzing World Happiness Report data from 2015–2019 with dynamic filtering, trend analysis, relationship analysis, and 13 interactive visualizations.
 
-A personalized course recommendation system that combines **BERT embeddings**, **semantic similarity**, **PageRank**, and **hybrid scoring** to deliver relevant course suggestions through an interactive GUI.
+🔗 [View Project](https://github.com/yousefnathan/World-Happiness-Dashboard)
 
-- Built on a dataset of **2,000 Coursera courses** across **11 academic categories**, with **58,784 course relationships**
-- Uses Top-K k-NN retrieval for recommendations
-- Applies NLP techniques to capture the semantic meaning of course content
+That gives someone visiting your profile an immediate reason to click your repositories.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-2C3E50?style=flat-square)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-6A5ACD?style=flat-square)
-![PageRank](https://img.shields.io/badge/PageRank-008080?style=flat-square)
+5. GitHub Stats
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefnathan/Course-Recommendation-System)
+Use the same username everywhere:
 
-<br>
+# 📊 GitHub Stats
 
-### World Happiness Dashboard
+![](https://github-readme-stats.vercel.app/api?username=yousefnathan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-An interactive **Plotly Dash** dashboard analyzing World Happiness Report data from **2015 to 2019**, built to explore how happiness scores relate to different social and economic factors across countries.
+![](https://streak-stats.demolab.com/?user=yousefnathan&theme=tokyonight&hide_border=false)
 
-- **13 interactive visualizations**
-- Data preprocessing and Exploratory Data Analysis
-- Country comparison, distribution analysis, and relationship analysis
-- Time-series visualization with dynamic filtering
-- Trend lines and outlier analysis
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefnathan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+6. Add a "Currently Learning" section
+# 🌱 Currently Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2C3E50?style=flat-square)
+- Advanced Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Transformer Architectures
+- Recommendation Systems
+- MLOps & AI Deployment
+- Data Engineering
+7. Your GPRM 6 questions
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefnathan/World-Happiness-Dashboard)
+Since the website is asking:
 
----
+I'm currently working on
+I'm looking to collaborate on
+I'm looking for help with
+I'm currently learning
+Ask me about
+Fun fact
 
-## Currently Learning
+I'd use:
 
-- Deepening my knowledge of **Deep Learning** with TensorFlow and PyTorch
-- Advancing in **Natural Language Processing** and transformer-based models
-- Exploring **Computer Vision** techniques
-- Building stronger foundations in **Recommendation Systems**
-- Improving software development practices with **Git, GitHub, and Linux**
+🔭 I'm currently working on
 
----
+AI and Data Science projects involving Machine Learning, NLP, recommendation systems, and interactive data applications.
 
-## GitHub Statistics
+🤝 I'm looking to collaborate on
 
-<div align="center">
+Machine Learning, Deep Learning, Data Science, NLP, and AI-powered applications.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yousefnathan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefnathan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+🆘 I'm looking for help with
 
-<br>
+Advanced NLP, Transformer architectures, MLOps, and deploying machine learning models.
 
-<img src="https://streak-stats.demolab.com/?user=yousefnathan&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+🌱 I'm currently learning
 
-</div>
+Advanced Deep Learning, NLP, Transformers, Recommendation Systems, and MLOps.
 
----
+💬 Ask me about
 
-## Connect With Me
+Python, Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, SQL, Machine Learning, and Data Visualization.
 
-I am open to learning opportunities, collaboration on AI and data projects, and conversations about machine learning and data science.
+⚡ Fun fact
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yousef-nathan/">
-  <img src="https://img.shields.io/badge/LinkedIn-yousef--nathan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:yousseftarek29205@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yousseftarek29205%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/yousefnathan">
-  <img src="https://img.shields.io/badge/GitHub-yousefnathan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
+I enjoy turning raw data into practical AI solutions and learning by building real projects.
