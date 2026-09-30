@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f3a,100:2d1b69&height=190&section=header&text=Yousef%20Nathan&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%26%20AI%20Student&descSize=18&descColor=a78bfa&descAlignY=62" alt="Yousef Nathan banner" width="100%" />
-
-<a href="https://github.com/yousefnathan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Machine+Learning+%26+Data+Science+Enthusiast;Natural+Language+Processing+%7C+Deep+Learning;Recommendation+Systems+%7C+Computer+Vision" alt="Typing animation" />
-</a>
+<img src="assets/banner.svg" alt="Yousef Nathan - Computer Science & AI Student" width="100%" />
 
 <br><br>
 
@@ -67,8 +63,9 @@ I am a Computer Science & Artificial Intelligence student at <b>Helwan National 
 ## GitHub Status
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yousefnathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c5ce7&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefnathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Most Used Languages" />
+  <a href="https://github.com/yousefnathan?tab=repositories"><img src="https://img.shields.io/github/followers/yousefnathan?label=Followers&style=for-the-badge&color=6c5ce7&labelColor=0d1117&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/yousefnathan/Course-Recommendation-System"><img src="https://img.shields.io/github/stars/yousefnathan/Course-Recommendation-System?label=Course%20Recommendation%20Stars&style=for-the-badge&color=6c5ce7&labelColor=0d1117&logo=github" alt="Course Recommendation System stars" /></a>
+  <a href="https://github.com/yousefnathan/World-Happiness-Dashboard"><img src="https://img.shields.io/github/stars/yousefnathan/World-Happiness-Dashboard?label=Happiness%20Dashboard%20Stars&style=for-the-badge&color=6c5ce7&labelColor=0d1117&logo=github" alt="World Happiness Dashboard stars" /></a>
 </p>
 
 <p align="center">
@@ -80,31 +77,8 @@ I am a Computer Science & Artificial Intelligence student at <b>Helwan National 
 ## Languages & Tools I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,mysql,sqlite,html,css,js&perline=8" alt="Languages and databases" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,numpy,matplotlib&perline=6" alt="AI and data science" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=4" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,mysql,sqlite,html,css,js,sklearn,tensorflow,pytorch,git,github,linux,vscode&perline=8" alt="Languages and tools" />
 </p>
-
-<br>
-
-## Best Repositories
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/yousefnathan/Course-Recommendation-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefnathan&repo=Course-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c5ce7" alt="Course Recommendation System" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/yousefnathan/World-Happiness-Dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefnathan&repo=World-Happiness-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c5ce7" alt="World Happiness Dashboard" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -207,7 +181,5 @@ I am open to learning opportunities, collaboration on AI and data projects, and 
 
 <a href="https://www.linkedin.com/in/yousef-nathan/"><img src="https://img.shields.io/badge/LinkedIn-yousef--nathan-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="mailto:yousseftarek29205@gmail.com"><img src="https://img.shields.io/badge/Email-yousseftarek29205%40gmail.com-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69,50:1a1f3a,100:0d1117&height=100&section=footer" alt="Footer" width="100%" />
 
 </div>
