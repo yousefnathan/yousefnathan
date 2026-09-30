@@ -1,77 +1,110 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6c5ce7&height=200&section=header&text=Yousef%20Nathan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%26%20AI%20Student&descSize=18&descAlignY=58" alt="Yousef Nathan" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1f3a,100:2d1b69&height=190&section=header&text=Yousef%20Nathan&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%26%20AI%20Student&descSize=18&descColor=a78bfa&descAlignY=62" alt="Yousef Nathan banner" width="100%" />
 
 <a href="https://github.com/yousefnathan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Machine+Learning+%26+Data+Science+Enthusiast;Natural+Language+Processing+%7C+Deep+Learning;Recommendation+Systems+%7C+Computer+Vision" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Machine+Learning+%26+Data+Science+Enthusiast;Natural+Language+Processing+%7C+Deep+Learning;Recommendation+Systems+%7C+Computer+Vision" alt="Typing animation" />
 </a>
 
-<br>
+<br><br>
 
-Helwan National University · Cairo, Egypt
+# Hello, I'm Yousef Nathan
 
-<br>
-
-<a href="https://www.linkedin.com/in/yousef-nathan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="mailto:yousseftarek29205@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-<a href="https://github.com/yousefnathan"><img src="https://img.shields.io/badge/GitHub-yousefnathan-6c5ce7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+<hr width="80%">
 
 </div>
+
+<p align="center">
+I am a Computer Science & Artificial Intelligence student at <b>Helwan National University</b> in Cairo, Egypt, focused on building a strong foundation in software development and machine learning. I am particularly interested in Artificial Intelligence, Data Science, and Natural Language Processing, and I aim to keep growing in these fields through hands-on projects.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousefnathan&label=Profile%20Views&color=6c5ce7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yousefnathan?label=Followers&style=flat-square&color=6c5ce7&labelColor=0d1117&logo=github" alt="GitHub Followers" />
+</p>
 
 <br>
 
 ## About Me
 
-I am a Computer Science & Artificial Intelligence student at **Helwan National University** in Cairo, Egypt, with a strong interest in building intelligent, data-driven systems.
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-I completed the **Digital Egypt Pioneers Initiative (DEPI)** as an **AI & Data Science Trainee**, working with Python, Pandas, NumPy, and Scikit-learn on data cleaning, feature engineering, model evaluation, and team-based AI projects.
+- Computer Science & AI student at Helwan National University, Cairo, Egypt
+- Completed the **Digital Egypt Pioneers Initiative (DEPI)** as an **AI & Data Science Trainee**
+- Worked with Python, Pandas, NumPy, and Scikit-learn on data cleaning, feature engineering, model evaluation, and team-based AI projects
+- Interested in Machine Learning, Deep Learning, NLP, Computer Vision, and Recommendation Systems
+- Currently building projects in NLP and data visualization
 
-**Areas of interest**
+</td>
+    <td width="40%" align="center" valign="middle">
 
-`Machine Learning` `Deep Learning` `Natural Language Processing` `Computer Vision` `Recommendation Systems` `Data Science` `Data Analysis`
+<b>Focus Areas</b>
+<br><br>
+<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Machine Learning" /><br>
+<img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Deep Learning" /><br>
+<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="NLP" /><br>
+<img src="https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Data Science" /><br>
+<img src="https://img.shields.io/badge/Recommendation%20Systems-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Recommendation Systems" />
+
+</td>
+  </tr>
+</table>
 
 <br>
 
-## What I Work With
+## Connect With Me
 
-**Programming**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+<p>
+  <a href="mailto:yousseftarek29205@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="56" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yousef-nathan/"><img src="https://skillicons.dev/icons?i=linkedin" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/yousefnathan"><img src="https://skillicons.dev/icons?i=github" width="56" alt="GitHub" /></a>
+</p>
 
-**AI & Machine Learning**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+<br>
 
-**NLP & Recommendation Systems**  
-![BERT](https://img.shields.io/badge/BERT-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-0d1117?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF)
+## GitHub Status
 
-**Data Science**  
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=8CAAE6)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=11557C)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yousefnathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c5ce7&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefnathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Most Used Languages" />
+</p>
 
-**Databases**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=63B5E5)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yousefnathan&theme=tokyonight&hide_border=true&background=0d1117&ring=6c5ce7&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+</p>
 
-**Web**  
-![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<br>
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+## Languages & Tools I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,c,mysql,sqlite,html,css,js&perline=8" alt="Languages and databases" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,pandas,numpy,matplotlib&perline=6" alt="AI and data science" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=4" alt="Tools" />
+</p>
+
+<br>
+
+## Best Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/yousefnathan/Course-Recommendation-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefnathan&repo=Course-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c5ce7" alt="Course Recommendation System" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/yousefnathan/World-Happiness-Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousefnathan&repo=World-Happiness-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c5ce7" alt="World Happiness Dashboard" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -122,6 +155,40 @@ An interactive **Plotly Dash** dashboard analyzing World Happiness Report data f
 
 <br>
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <br>
+  <img src="https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white" alt="BERT" />
+  <img src="https://img.shields.io/badge/SENTENCE%20TRANSFORMERS-2C3E50?style=flat-square" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SCIPY-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+<br>
+
 ## Currently Learning
 
 - **Deep Learning** with TensorFlow and PyTorch
@@ -132,30 +199,15 @@ An interactive **Plotly Dash** dashboard analyzing World Happiness Report data f
 
 <br>
 
-## GitHub Statistics
-
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yousefnathan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c5ce7&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefnathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=yousefnathan&theme=tokyonight&hide_border=true&background=0d1117&ring=6c5ce7&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-## Connect With Me
 
 I am open to learning opportunities, collaboration on AI and data projects, and conversations about machine learning and data science.
 
-<div align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/yousef-nathan/"><img src="https://img.shields.io/badge/LinkedIn-yousef--nathan-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
 <a href="mailto:yousseftarek29205@gmail.com"><img src="https://img.shields.io/badge/Email-yousseftarek29205%40gmail.com-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:0d1117&height=100&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b69,50:1a1f3a,100:0d1117&height=100&section=footer" alt="Footer" width="100%" />
 
 </div>
