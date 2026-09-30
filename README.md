@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Yousef Nathan - Computer Science & AI Student" width="100%" />
+<img src="assets/banner.svg" alt="Yousef Nathan - Computer Science & AI Student" width="100%" />
 
 <br><br>
 
@@ -15,8 +15,8 @@ I am a Computer Science & Artificial Intelligence student at <b>Helwan National 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefnathan&label=Profile%20Views&color=6c5ce7&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yousefnathan?label=Followers&style=flat-square&color=6c5ce7&labelColor=0d1117&logo=github" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=yousefnathan&label=Profile%20Views&color=2f81f7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yousefnathan?label=Followers&style=flat-square&color=2f81f7&labelColor=0d1117&logo=github" alt="GitHub Followers" />
 </p>
 
 <br>
@@ -38,11 +38,11 @@ I am a Computer Science & Artificial Intelligence student at <b>Helwan National 
 
 <b>Focus Areas</b>
 <br><br>
-<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Machine Learning" /><br>
-<img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Deep Learning" /><br>
-<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="NLP" /><br>
-<img src="https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Data Science" /><br>
-<img src="https://img.shields.io/badge/Recommendation%20Systems-0d1117?style=for-the-badge&labelColor=0d1117&color=6c5ce7" alt="Recommendation Systems" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=2f81f7" alt="Machine Learning" /><br>
+<img src="https://img.shields.io/badge/Deep%20Learning-0d1117?style=for-the-badge&labelColor=0d1117&color=2f81f7" alt="Deep Learning" /><br>
+<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&labelColor=0d1117&color=2f81f7" alt="NLP" /><br>
+<img src="https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&labelColor=0d1117&color=2f81f7" alt="Data Science" /><br>
+<img src="https://img.shields.io/badge/Recommendation%20Systems-0d1117?style=for-the-badge&labelColor=0d1117&color=2f81f7" alt="Recommendation Systems" />
 
 </td>
   </tr>
@@ -63,13 +63,13 @@ I am a Computer Science & Artificial Intelligence student at <b>Helwan National 
 ## GitHub Status
 
 <p align="center">
-  <a href="https://github.com/yousefnathan?tab=repositories"><img src="https://img.shields.io/github/followers/yousefnathan?label=Followers&style=for-the-badge&color=6c5ce7&labelColor=0d1117&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/yousefnathan/Course-Recommendation-System"><img src="https://img.shields.io/github/stars/yousefnathan/Course-Recommendation-System?label=Course%20Recommendation%20Stars&style=for-the-badge&color=6c5ce7&labelColor=0d1117&logo=github" alt="Course Recommendation System stars" /></a>
-  <a href="https://github.com/yousefnathan/World-Happiness-Dashboard"><img src="https://img.shields.io/github/stars/yousefnathan/World-Happiness-Dashboard?label=Happiness%20Dashboard%20Stars&style=for-the-badge&color=6c5ce7&labelColor=0d1117&logo=github" alt="World Happiness Dashboard stars" /></a>
+  <a href="https://github.com/yousefnathan?tab=repositories"><img src="https://img.shields.io/github/followers/yousefnathan?label=Followers&style=for-the-badge&color=2f81f7&labelColor=0d1117&logo=github" alt="Followers" /></a>
+  <a href="https://github.com/yousefnathan/Course-Recommendation-System"><img src="https://img.shields.io/github/stars/yousefnathan/Course-Recommendation-System?label=Course%20Recommendation%20Stars&style=for-the-badge&color=2f81f7&labelColor=0d1117&logo=github" alt="Course Recommendation System stars" /></a>
+  <a href="https://github.com/yousefnathan/World-Happiness-Dashboard"><img src="https://img.shields.io/github/stars/yousefnathan/World-Happiness-Dashboard?label=Happiness%20Dashboard%20Stars&style=for-the-badge&color=2f81f7&labelColor=0d1117&logo=github" alt="World Happiness Dashboard stars" /></a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yousefnathan&theme=tokyonight&hide_border=true&background=0d1117&ring=6c5ce7&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yousefnathan&theme=tokyonight&hide_border=true&background=0d1117&ring=2f81f7&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -96,11 +96,11 @@ A personalized course recommendation system combining **BERT embeddings**, **sem
 - 58,784 course relationships
 - Top-K k-NN retrieval
 
-![Python](https://img.shields.io/badge/Python-6c5ce7?style=flat-square&logo=python&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-6c5ce7?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-6c5ce7?style=flat-square)
-![PageRank](https://img.shields.io/badge/PageRank-6c5ce7?style=flat-square)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-6c5ce7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-2f81f7?style=flat-square&logo=python&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-2f81f7?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-2f81f7?style=flat-square)
+![PageRank](https://img.shields.io/badge/PageRank-2f81f7?style=flat-square)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-2f81f7?style=flat-square)
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefnathan/Course-Recommendation-System)
 
@@ -116,10 +116,10 @@ An interactive **Plotly Dash** dashboard analyzing World Happiness Report data f
 - Country comparison, distribution and relationship analysis
 - Time-series visualization, dynamic filtering, trend lines, and outlier analysis
 
-![Python](https://img.shields.io/badge/Python-6c5ce7?style=flat-square&logo=python&logoColor=white)
-![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-6c5ce7?style=flat-square&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-6c5ce7?style=flat-square&logo=pandas&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-6c5ce7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-2f81f7?style=flat-square&logo=python&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-2f81f7?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2f81f7?style=flat-square&logo=pandas&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2f81f7?style=flat-square)
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefnathan/World-Happiness-Dashboard)
 
@@ -179,7 +179,7 @@ I am open to learning opportunities, collaboration on AI and data projects, and 
 
 <br>
 
-<a href="https://www.linkedin.com/in/yousef-nathan/"><img src="https://img.shields.io/badge/LinkedIn-yousef--nathan-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="mailto:yousseftarek29205@gmail.com"><img src="https://img.shields.io/badge/Email-yousseftarek29205%40gmail.com-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/yousef-nathan/"><img src="https://img.shields.io/badge/LinkedIn-yousef--nathan-2f81f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:yousseftarek29205@gmail.com"><img src="https://img.shields.io/badge/Email-yousseftarek29205%40gmail.com-2f81f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
 
 </div>
